@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530488672022",
+    "firebase_url": "https://toolplus-store.firebaseio.com",
+    "project_id": "toolplus-store",
+    "storage_bucket": "toolplus-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530488672022:android:5b700feeca3b3a0298da37",
+        "android_client_info": {
+          "package_name": "com.example.toolplusstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530488672022-v7gp9or8hht3p805eglabqi6806brp02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toolplusstore",
+            "certificate_hash": "6caefb78bc45c11790b26086eb289deafd74a374"
+          }
+        },
+        {
+          "client_id": "530488672022-fr374a8qfag50e5plputdculp36v8ep9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWEoBPSWi3KJ4-J2qnnSIOsrULzSuHx6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530488672022-fr374a8qfag50e5plputdculp36v8ep9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
